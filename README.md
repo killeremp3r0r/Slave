@@ -1,6 +1,6 @@
 # Slave — PC Check Tool
 
-Developed by **killeremperor** · Windows · Python 3.8+ · UI languages: TR / EN / RU / UK
+Developed by **KillerEmperor** · Windows · Python 3.8+ · UI languages: TR / EN / RU / UK
 
 Slave is a local desktop tool for checking a Windows PC for known cheat/executor software. It has two tools:
 
