@@ -1,0 +1,30 @@
+{
+  "lang": "en",
+  "theme": "black",
+  "bg_image": "",
+  "bg_blur": 0,
+  "ui_opacity": 100,
+  "tools": {
+    "browse": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        }
+      }
+    },
+    "data": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        }
+      }
+    }
+  },
+  "whole": true,
+  "hide_sys": true,
+  "data_only_list": false
+}
