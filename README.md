@@ -1,3 +1,7 @@
+
+<img width="450" height="450" alt="logo" src="https://github.com/user-attachments/assets/a0ff165f-2b4b-498a-90b2-6ca5371088ef" />
+
+
 # Slave — PC Check Tool
 
 Developed by **KillerEmperor** · Windows · Python 3.8+ · UI languages: TR / EN / RU / UK
@@ -41,3 +45,12 @@ Each tool has its own configs. **Default** is built in and cannot be edited. Use
 ## Appearance
 
 Brush button in the header: color presets, blurred background image, and interface opacity .
+
+Virus total link: https://www.virustotal.com/gui/file/871a6a956a937648ca403014bd018732f05c373931c27087b25275731152ec51?nocache=1
+
+
+<img width="477" height="645" alt="image" src="https://github.com/user-attachments/assets/167db3a6-4639-41a0-bd59-32334430dbab" />
+<img width="1191" height="929" alt="image" src="https://github.com/user-attachments/assets/92ac4f68-f6ae-4c96-a25e-8c60c93556cc" />
+<img width="1198" height="928" alt="image" src="https://github.com/user-attachments/assets/a59729fe-85d0-4fa2-ad6b-0625e050c0fb" />
+
+
